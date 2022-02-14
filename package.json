@@ -1,0 +1,17 @@
+{
+  "name": "findyourhat",
+  "version": "1.0.0",
+  "description": "JavaScript Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node main.js",
+    "testing": "node test.js"
+  },
+  "author": "CJ Ho",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
