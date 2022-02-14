@@ -28,6 +28,6 @@ Time pressure and unfamiliar with javascript classes.
 * Improvement to do 2
 - find out why my hat "^" never appear ?
 * Improvement to do 3 
-- required to do more JavaScript related mini project to familiarize with logic appli` and increase nueroplasticity.
+- required to do more JavaScript related mini project to familiarize with logic applications and increase nueroplasticity.
 * Improvement to do
 - Get a "old flower" spectacles to see more clear.
